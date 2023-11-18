@@ -1,6 +1,11 @@
 # Hey there! 👋
 
- I'm badblli, a coding sorceress on a quest to turn the digital realm into a whimsical wonderland! ✨ Let me take you on a tour of the enchanted skills and tech spells that make up this frontend fairy tale.
+I'm badblli, a **Frontend Developer** and coding sorceress on a quest to turn the digital realm into a whimsical wonderland! ✨
+
+Let me take you on a tour of the enchanted skills and tech spells that make up this frontend fairy tale.
+
+So, ready to join me on this magical coding adventure? Explore my [portfolio](https://www.badblli.dev/) to witness the wonders, and feel free to shoot me an [email](mailto:bsnradblli@gmail.com) if you're up for some coding magic! 🚀✨
+
 
 ## 💻 The Magic of Front-End
 - Behold the HTML sorcery at its finest, as I conjure captivating web spells with ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white).
@@ -21,7 +26,8 @@
 
 ## ☁️ Cloud Navigator
 - Navigating the clouds with AWS wings, soaring high with ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white).
-- Azure adventures in the digital sky, exploring the Microsoft cosmos with ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white).
+- Embarking on DigitalOcean adventures, riding the waves in the digital sky with ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white).
+<!--- Azure adventures in the Microsoft cosmos, exploring the clouds with ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white).-->
 
 ## 🎶 Version Control Maestro
 - Git-ing things done, orchestrating code symphonies with ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white).
