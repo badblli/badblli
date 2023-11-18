@@ -9,7 +9,6 @@ So, ready to join me on this magical coding adventure? Explore my [portfolio](ht
 ```javascript
 const skills = {
   frontend: {
-    languages: ["HTML5", "CSS3", "JavaScript"],
     frameworks: ["VueJS", "NuxtJS", "ReactJS", "NextJs"],
   },
   polyglot: {
