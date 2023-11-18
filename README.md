@@ -6,6 +6,29 @@ Let me take you on a tour of the enchanted skills and tech spells that make up t
 
 So, ready to join me on this magical coding adventure? Explore my [portfolio](https://www.badblli.dev/) to witness the wonders, and feel free to shoot me an [email](mailto:bsnradblli@gmail.com) if you're up for some coding magic! 🚀✨
 
+```javascript
+const skills = {
+  frontend: {
+    languages: ["HTML5", "CSS3", "JavaScript"],
+    frameworks: ["VueJS", "NuxtJS", "ReactJS", "NextJs"],
+  },
+  polyglot: {
+    languages: ["Python", "C#"],
+  },
+  cloud: {
+    providers: ["AWS", "DigitalOcean"],
+    // Uncomment the line below for Microsoft Azure adventures
+    // providers: ["AWS", "DigitalOcean", "Microsoft Azure"],
+  },
+  versionControl: {
+    tools: ["Git", "GitHub", "Bitbucket"],
+  },
+  projectManagement: {
+    tools: ["Jira"],
+  },
+};
+```
+
 
 ## 💻 The Magic of Front-End
 - Behold the HTML sorcery at its finest, as I conjure captivating web spells with ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white).
