@@ -16,9 +16,7 @@ const skills = {
     languages: ["Python", "C#"],
   },
   cloud: {
-    providers: ["AWS", "DigitalOcean"],
-    // Uncomment the line below for Microsoft Azure adventures
-    // providers: ["AWS", "DigitalOcean", "Microsoft Azure"],
+    providers: ["DigitalOcean", "AWS"],
   },
   versionControl: {
     tools: ["Git", "GitHub", "Bitbucket"],
