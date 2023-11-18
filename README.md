@@ -36,5 +36,3 @@ So, ready to join me on this magical coding adventure? Explore my [portfolio](ht
 
 ## 🚀 Project Management Guru
 - Jira journeys through project landscapes, navigating the challenges with the agility of a coding ninja ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white).
-
-So, ready to join me on this magical coding adventure? Explore my [portfolio](https://www.badblli.dev/) to witness the wonders, and feel free to shoot me an [email](mailto:bsnradblli@gmail.com) if you're up for some coding magic! 🚀✨
