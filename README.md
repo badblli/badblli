@@ -6,16 +6,14 @@ Let me take you on a tour of the enchanted skills and tech spells that make up t
 
 So, ready to join me on this magical coding adventure? Explore my [portfolio](https://www.badblli.dev/) to witness the wonders, and feel free to shoot me an [email](mailto:bsnradblli@gmail.com) if you're up for some coding magic! 🚀✨
 
-<body>
-   <center>
 <div align="center">
-<a href="https://discord.com/users/202740603790819328" >
-  <a href="https://egirl.ing/" >
-   <img src="[https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square](https://lanyard.kyrie25.me/api/790487581589504001?waveColor=61a8ff&waveSpotifyColor=380aff&gradient=32de84-B48EF7-66FF00&imgStyle=square)"  />
+	<a href="https://discord.com/users/790487581589504001" >  
+  		<img src="https://lanyard.kyrie25.me/api/790487581589504001?waveColor=61a8ff&waveSpotifyColor=380aff&gradient=32de84-B48EF7-66FF00&imgStyle=square"  />  
+	</a>  
 </div>
-    </center>
-</body>
+<br>
 
+    
 ```javascript
 const skills = {
   frontend: {
