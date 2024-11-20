@@ -1,4 +1,4 @@
-# Hey there! 👋  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Hey there! 👋  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://badblli.dev)
 
 I'm badblli, a **Frontend Developer** and coding sorceress on a quest to turn the digital realm into a whimsical wonderland! ✨
 
