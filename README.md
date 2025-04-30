@@ -1,67 +1,42 @@
-# 👋 Hey there! I'm `badblli`
+# 👋 hi, I’m badblli
 
-Frontend developer by trade, creative technologist by heart.  
-Turning code into experience, pixels into purpose.  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-badblli.dev-61a8ff?style=flat-square&logo=figma)](https://badblli.dev)
-[![Email](https://img.shields.io/badge/Email-badblli@icloud.com-0078D4?style=flat-square&logo=icloud)](mailto:badblli@icloud.com)
+creative frontend developer & product builder, operating at the intersection of design, logic and weird ideas.
 
 ---
 
-## 🧠 About Me
-A self-driven frontend developer who blends creativity with logic to build web experiences that are clean, responsive, and scalable.  
+## 🛠 what i do
 
-- Focused on **VueJS/NuxtJS**, **real-time UX**, and **AI-powered interfaces**
-- Deeply interested in **component-based design systems** and **DX optimization**
-- Constantly exploring new tools that push web boundaries
-
----
-
-## 🚀 Tech Stack
-
-### 👩‍🎨 Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-### 🎨 Styling
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
-
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-### ☁️ Cloud & Tools
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-### 🔧 DevOps & Utilities
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+- 🧠 AI-powered chatbot systems with **Gemini** & **OpenAI APIs**
+- 🛍 founder of [**SCHKIMI**](https://schkimi.com) – a 3D-printed goods brand with its own e-commerce platform
+- ⚙️ frontend development with **Vue/Nuxt**, **Tailwind**, **Vuetify**, **Quasar**
+- 📡 real-time applications with **WebSockets** and clean data flows
+- ✨ building ideas that ship — fast, minimal, usable
 
 ---
 
-## 📌 Side Projects & Highlights
-- 🎮 **Agar.io-inspired multiplayer game** using VueJS and WebSocket-based real-time logic  
-- 🛍️ **SCHKIMI** – A brand & e-commerce system built around 3D printing with a franchise twist  
-- 🤖 Building AI-integrated backend services using **Gemini API**, Node.js, and Express
+## 💼 projects & products
+
+- **schkimi.com** → e-commerce system designed, developed & maintained end-to-end  
+- **Realtime game logic** & multiplayer UI with Vue 3  
+- **Custom CMS & survey tools** tailored for multi-client needs  
+- **AI Chat Services** → Prompt-engineered assistants powered by OpenAI/Gemini
 
 ---
 
-## 🕹 Currently Working On
-- 🔁 Real-time web dashboards and interactions with Vue 3  
-- ✨ AI-enhanced assistants with Gemini + prompt-based personalization  
-- 💸 Full-stack e-commerce architecture (Next.js + Prisma + Firebase Auth)
+## 🧵 stack
+
+- `Vue`, `Nuxt`, `React`, `Next.js`  
+- `Tailwind CSS`, `Vuetify`, `Quasar`  
+- `Firebase`, `Gemini API`, `OpenAI`, `Prisma`, `Docker`, `DigitalOcean`  
+- `Git`, `Vite`, `Node.js`, `WebSockets`
 
 ---
+
+## 🌍 contact
+
+- 🧠 portfolio → [badblli.dev](https://badblli.dev)  
+- ✉️ email → [badblli@icloud.com](mailto:badblli@icloud.com)  
+- 🧙‍♀️ discord → `akihiraeth`
 
 <div align="center">
   <a href="https://discord.com/users/790487581589504001">
@@ -71,7 +46,4 @@ A self-driven frontend developer who blends creativity with logic to build web e
 
 ---
 
-### 💬 Let's Connect
-Whether it’s about Vue, AI, 3D printing or creative side projects —  
-Reach out via [email](mailto:badblli@icloud.com) or visit [badblli.dev](https://badblli.dev).  
-Let’s build something magical together ✨
+> self-taught, product-first, and obsessed with execution.
