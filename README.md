@@ -1,9 +1,9 @@
 # 👋 hey, i’m badblli
 
 i build thoughtful interfaces, autonomous systems, and scalable tools.  
-**frontend by title — product by obsession.**
+**frontend developer by title — product maker by mindset.**
 
-<p align="right">
+<p align="center">
   <a href="https://discord.com/users/790487581589504001">
     <img src="https://lanyard.kyrie25.dev/api/790487581589504001?bg=0f0f0f&gradient=61a8ff-B48EF7-66FF00&waveColor=444444&clanbg=1a1a1a&borderRadius=10px&imgStyle=square&hideStatus=true&hideTimestamp=true" alt="Discord Presence" />
   </a>
