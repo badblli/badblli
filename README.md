@@ -1,9 +1,9 @@
 # 👋 hey, i’m badblli
 
-i build systems, interfaces, and real products.  
-frontend developer by title — product maker by mindset.
+i build thoughtful interfaces, autonomous systems, and scalable tools.  
+**frontend by title — product by obsession.**
 
-<p align="center">
+<p align="right">
   <a href="https://discord.com/users/790487581589504001">
     <img src="https://lanyard.kyrie25.dev/api/790487581589504001?bg=0f0f0f&gradient=61a8ff-B48EF7-66FF00&waveColor=444444&clanbg=1a1a1a&borderRadius=10px&imgStyle=square&hideStatus=true&hideTimestamp=true" alt="Discord Presence" />
   </a>
@@ -11,40 +11,40 @@ frontend developer by title — product maker by mindset.
 
 ---
 
-## 🛠 what i do
+## 🧭 focus areas
 
-- 🤖 designing & engineering **AI chatbots** using OpenAI & Gemini APIs  
-- 🛍 running [**SCHKIMI**](https://schkimi.com) — a 3D-printed goods brand with its own full-stack e-commerce platform  
-- 💻 building production-grade apps using `Next.js`, `Vue`, `Tailwind`, `Prisma`, `Firebase Auth`  
-- 🧩 shaping design systems & components that are fast, minimal and expressive  
-- 🧠 always iterating — learning, shipping, scaling  
-
----
-
-## 🧩 projects & products
-
-- **schkimi.com** – fully custom e-commerce platform, backend to frontend  
-- **AI chat platform** – Gemini/OpenAI-powered assistants with multi-tenant capabilities  
-- **custom CMS** – multilingual, survey-friendly, content-ready systems  
-- **realtime UI** – event-driven frontends with Vue + WebSockets  
+- 🧠 building human-AI interfaces using OpenAI & Gemini APIs  
+- 🛍 growing [**SCHKIMI**](https://schkimi.com) — 3D-printed goods with real logistics  
+- 🌐 crafting fast, elegant frontends with `Next.js`, `Vue`, and `Tailwind`  
+- 🔐 designing systems with structure — clean data, modular logic, durable backends  
+- 🧪 curious about autonomy, automation, and creative tooling
 
 ---
 
-## 🧵 stack
+## 🧱 projects
 
-**main:**  
-`next.js`, `vue`, `prisma`, `tailwind`, `firebase`, `openai`, `docker`  
+- **schkimi.com** → full-stack e-commerce platform for physical products  
+- **AI chat platform** → multi-tenant, API-powered assistants  
+- **modular CMS** → multilingual, survey-based, built for scale  
+- **canvas UI systems** → real-time interaction tools with Vue & WebSockets  
 
-**also used:**  
-`nuxt`, `vuetify`, `quasar`, `react`, `digitalocean`, `vite`  
+---
+
+## 🛠 toolchain
+
+**core stack:**  
+`next.js`, `vue`, `tailwind`, `prisma`, `firebase`, `docker`, `openai`
+
+**bonus tools:**  
+`nuxt`, `quasar`, `vite`, `digitalocean`, `zustand`, `websockets`
 
 ---
 
 ## 📫 contact
 
-- 🌐 portfolio → [badblli.dev](https://badblli.dev)  
-- ✉️ email → [badblli@icloud.com](mailto:badblli@icloud.com)  
-- 🧙‍♀️ discord → `akihiraeth`  
+- 🌐 [badblli.dev](https://badblli.dev)  
+- ✉️ [badblli@icloud.com](mailto:badblli@icloud.com)  
+- 🧙‍♀️ [discord](https://discord.com/users/790487581589504001)
 
 ---
 
