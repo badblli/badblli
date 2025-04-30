@@ -1,48 +1,50 @@
-# 👋 hi, I’m badblli
+# 👋 hey, i’m badblli
 
-creative frontend developer & product builder, operating at the intersection of design, logic and weird ideas.
+i build systems, interfaces, and real products.  
+frontend developer by title — product maker by mindset.
+
+<p align="center">
+  <a href="https://discord.com/users/790487581589504001">
+    <img src="https://lanyard.kyrie25.dev/api/790487581589504001?bg=0f0f0f&gradient=61a8ff-B48EF7-66FF00&waveColor=444444&clanbg=1a1a1a&borderRadius=10px&imgStyle=square&hideStatus=true&hideTimestamp=true" alt="Discord Presence" />
+  </a>
+</p>
 
 ---
 
 ## 🛠 what i do
 
-- 🧠 AI-powered chatbot systems with **Gemini** & **OpenAI APIs**
-- 🛍 founder of [**SCHKIMI**](https://schkimi.com) – a 3D-printed goods brand with its own e-commerce platform
-- ⚙️ frontend development with **Vue/Nuxt**, **Tailwind**, **Vuetify**, **Quasar**
-- 📡 real-time applications with **WebSockets** and clean data flows
-- ✨ building ideas that ship — fast, minimal, usable
+- 🤖 designing & engineering **AI chatbots** using OpenAI & Gemini APIs  
+- 🛍 running [**SCHKIMI**](https://schkimi.com) — a 3D-printed goods brand with its own full-stack e-commerce platform  
+- 💻 building production-grade apps using `Next.js`, `Vue`, `Tailwind`, `Prisma`, `Firebase Auth`  
+- 🧩 shaping design systems & components that are fast, minimal and expressive  
+- 🧠 always iterating — learning, shipping, scaling  
 
 ---
 
-## 💼 projects & products
+## 🧩 projects & products
 
-- **schkimi.com** → e-commerce system designed, developed & maintained end-to-end  
-- **Realtime game logic** & multiplayer UI with Vue 3  
-- **Custom CMS & survey tools** tailored for multi-client needs  
-- **AI Chat Services** → Prompt-engineered assistants powered by OpenAI/Gemini
+- **schkimi.com** – fully custom e-commerce platform, backend to frontend  
+- **AI chat platform** – Gemini/OpenAI-powered assistants with multi-tenant capabilities  
+- **custom CMS** – multilingual, survey-friendly, content-ready systems  
+- **realtime UI** – event-driven frontends with Vue + WebSockets  
 
 ---
 
 ## 🧵 stack
 
-- `Vue`, `Nuxt`, `React`, `Next.js`  
-- `Tailwind CSS`, `Vuetify`, `Quasar`  
-- `Firebase`, `Gemini API`, `OpenAI`, `Prisma`, `Docker`, `DigitalOcean`  
-- `Git`, `Vite`, `Node.js`, `WebSockets`
+**main:**  
+`next.js`, `vue`, `prisma`, `tailwind`, `firebase`, `openai`, `docker`  
+
+**also used:**  
+`nuxt`, `vuetify`, `quasar`, `react`, `digitalocean`, `vite`  
 
 ---
 
-## 🌍 contact
+## 📫 contact
 
-- 🧠 portfolio → [badblli.dev](https://badblli.dev)  
+- 🌐 portfolio → [badblli.dev](https://badblli.dev)  
 - ✉️ email → [badblli@icloud.com](mailto:badblli@icloud.com)  
-- 🧙‍♀️ discord → `akihiraeth`
-
-<div align="center">
-  <a href="https://discord.com/users/790487581589504001">
-    <img src="https://lanyard.kyrie25.me/api/790487581589504001?waveColor=61a8ff&waveSpotifyColor=380aff&gradient=32de84-B48EF7-66FF00&imgStyle=square" />
-  </a>
-</div>
+- 🧙‍♀️ discord → `akihiraeth`  
 
 ---
 
