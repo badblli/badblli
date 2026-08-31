@@ -1,6 +1,6 @@
 # 👋 hey, i’m badblli
 
-i build thoughtful interfaces, autonomous systems, and scalable tools.  
+i build thoughtful interfaces, AI-powered systems, and scalable tools.  
 **frontend developer by title — product maker by mindset.**
 
 <p align="center">
@@ -13,10 +13,11 @@ i build thoughtful interfaces, autonomous systems, and scalable tools.
 
 ## 🧭 focus areas
 
-- 🧠 building human-AI interfaces using OpenAI & Gemini APIs  
+- 🧠 building human-AI interfaces with OpenAI, Gemini, RAG, and structured tool use  
+- 🏨 researching **[HOSIA](https://github.com/badblli/HOSIA)** — multilingual hospitality intent analysis and ontology-guided AI  
 - 🛍 growing [**SCHKIMI**](https://schkimi.com) — 3D-printed goods with real logistics  
 - 🌐 crafting fast, elegant frontends with `Next.js`, `Vue`, and `Tailwind`  
-- 🔐 designing systems with structure — clean data, modular logic, durable backends  
+- 🔐 designing systems with structure — clean data, privacy-aware flows, modular logic, durable backends  
 - 🧪 curious about autonomy, automation, and creative tooling
 
 ---
@@ -25,6 +26,8 @@ i build thoughtful interfaces, autonomous systems, and scalable tools.
 
 - **schkimi.com** → full-stack e-commerce platform for physical products  
 - **AI chat platform** → multi-tenant, API-powered assistants  
+- **HOSIA** → multilingual hospitality ontology, dataset, and evaluation research  
+- **hybrid travel search** → RAG, vector search, and grounded AI responses  
 - **modular CMS** → multilingual, survey-based, built for scale  
 - **canvas UI systems** → real-time interaction tools with Vue & WebSockets  
 
@@ -36,7 +39,7 @@ i build thoughtful interfaces, autonomous systems, and scalable tools.
 `next.js`, `vue`, `tailwind`, `prisma`, `firebase`, `docker`, `openai`
 
 **bonus tools:**  
-`nuxt`, `quasar`, `vite`, `digitalocean`, `zustand`, `websockets`
+`nuxt`, `quasar`, `vite`, `typescript`, `mongodb atlas`, `rag`, `hugging face`, `digitalocean`, `zustand`, `websockets`
 
 ---
 
