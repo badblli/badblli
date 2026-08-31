@@ -1,7 +1,7 @@
 # 👋 hey, i’m badblli
 
-i build thoughtful interfaces, AI-powered systems, and scalable tools.  
-**frontend developer by title — product maker by mindset.**
+i build thoughtful interfaces, AI systems, and production-minded tools.  
+**AI engineer in progress — frontend developer by foundation, product maker by mindset.**
 
 <p align="center">
   <a href="https://discord.com/users/790487581589504001">
@@ -11,35 +11,33 @@ i build thoughtful interfaces, AI-powered systems, and scalable tools.
 
 ---
 
-## 🧭 focus areas
+## 🧭 current direction
 
-- 🧠 building human-AI interfaces with OpenAI, Gemini, RAG, and structured tool use  
-- 🏨 researching **[HOSIA](https://github.com/badblli/HOSIA)** — multilingual hospitality intent analysis and ontology-guided AI  
-- 🛍 growing [**SCHKIMI**](https://schkimi.com) — 3D-printed goods with real logistics  
-- 🌐 crafting fast, elegant frontends with `Next.js`, `Vue`, and `Tailwind`  
-- 🔐 designing systems with structure — clean data, privacy-aware flows, modular logic, durable backends  
-- 🧪 curious about autonomy, automation, and creative tooling
-
----
-
-## 🧱 projects
-
-- **schkimi.com** → full-stack e-commerce platform for physical products  
-- **AI chat platform** → multi-tenant, API-powered assistants  
-- **HOSIA** → multilingual hospitality ontology, dataset, and evaluation research  
-- **hybrid travel search** → RAG, vector search, and grounded AI responses  
-- **modular CMS** → multilingual, survey-based, built for scale  
-- **canvas UI systems** → real-time interaction tools with Vue & WebSockets  
+- 🧠 moving from AI interfaces to **AI engineering**: datasets, evaluation, RAG, tool use, and reliable agent workflows  
+- 🏨 researching **[HOSIA](https://github.com/badblli/HOSIA)** — multilingual hospitality ontology, intent analysis, and domain-adapted language models  
+- 🧪 learning through real experiments with Hugging Face, small open-weight models, embeddings, clustering, LoRA/QLoRA, and structured outputs  
+- 🔐 building privacy-aware systems that retrieve live knowledge instead of embedding sensitive or changing information in model weights  
+- 🌐 keeping a strong product/UI foundation with `Next.js`, `Vue`, `TypeScript`, and `Tailwind`
 
 ---
 
-## 🛠 toolchain
+## 🧱 selected work
 
-**core stack:**  
-`next.js`, `vue`, `tailwind`, `prisma`, `firebase`, `docker`, `openai`
+- **[HOSIA](https://github.com/badblli/HOSIA)** → multilingual hospitality ontology, dataset, benchmark, and model-adaptation research  
+- **hybrid travel search** → vector search, RAG, and grounded AI responses  
+- **AI chat platform** → multi-tenant assistants with API providers and product-focused UX  
+- **SCHKIMI** → previous full-stack e-commerce work for 3D-printed physical goods  
+- **modular CMS & canvas systems** → multilingual content workflows and real-time interaction tools
 
-**bonus tools:**  
-`nuxt`, `quasar`, `vite`, `typescript`, `mongodb atlas`, `rag`, `hugging face`, `digitalocean`, `zustand`, `websockets`
+---
+
+## 🛠 stack
+
+**AI / ML focus:**  
+`python`, `hugging face`, `transformers`, `datasets`, `pytorch`, `peft`, `sentence-transformers`, `scikit-learn`, `rag`, `openai`
+
+**product & platform:**  
+`typescript`, `next.js`, `vue`, `nuxt`, `tailwind`, `mongodb atlas`, `prisma`, `docker`, `vite`, `vercel`, `websockets`
 
 ---
 
@@ -51,4 +49,4 @@ i build thoughtful interfaces, AI-powered systems, and scalable tools.
 
 ---
 
-> self-taught, product-first, and obsessed with execution.
+> self-taught, research-minded, product-first, and obsessed with execution.
