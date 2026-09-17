@@ -15,9 +15,9 @@ i build thoughtful interfaces, AI systems, and production-minded tools.
 
 - 🧠 moving from AI interfaces to **AI engineering**: datasets, evaluation, RAG, tool use, and reliable agent workflows  
 - 🏨 exploring **[HOSIA](https://github.com/badblli/HOSIA)** — early-stage research into a multilingual hospitality ontology and structured intent analysis
-- 🧪 learning through real experiments with Hugging Face, small open-weight models, embeddings, clustering, LoRA/QLoRA, and structured outputs  
+- 🧪 experimenting with document extraction, embeddings, and structured outputs in retrieval-focused workflows
 - 🔐 building privacy-aware systems that retrieve live knowledge instead of embedding sensitive or changing information in model weights  
-- 🌐 keeping a strong product/UI foundation with `Next.js`, `Vue`, `TypeScript`, and `Tailwind`
+- 🌐 building on a product/UI foundation while deepening backend, API, and automation work
 
 ---
 
@@ -40,9 +40,13 @@ i build thoughtful interfaces, AI systems, and production-minded tools.
 
 `TypeScript`, `Next.js`, `PostgreSQL`, `Drizzle ORM`, `Gmail API`, `Slack webhooks`, `scheduled jobs`
 
-**Search & product:**
+**Product & platform:**
 
-`React`, `MongoDB Atlas`, `Atlas Search`, `vector search`, `Docker`
+`React`, `Docker`
+
+**Search experiments (workshop projects):**
+
+`MongoDB Atlas`, `Atlas Search`, `vector search`
 
 ---
 
