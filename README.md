@@ -1,7 +1,7 @@
 # 👋 hey, i’m badblli
 
 i build thoughtful interfaces, AI systems, and production-minded tools.  
-**AI engineer in progress — frontend developer by foundation, product maker by mindset.**
+**Software Developer focused on AI/LLM systems, backend development, and automation.**
 
 <p align="center">
   <a href="https://discord.com/users/790487581589504001">
@@ -14,7 +14,7 @@ i build thoughtful interfaces, AI systems, and production-minded tools.
 ## 🧭 current direction
 
 - 🧠 moving from AI interfaces to **AI engineering**: datasets, evaluation, RAG, tool use, and reliable agent workflows  
-- 🏨 researching **[HOSIA](https://github.com/badblli/HOSIA)** — multilingual hospitality ontology, intent analysis, and domain-adapted language models  
+- 🏨 exploring **[HOSIA](https://github.com/badblli/HOSIA)** — early-stage research into a multilingual hospitality ontology and structured intent analysis
 - 🧪 learning through real experiments with Hugging Face, small open-weight models, embeddings, clustering, LoRA/QLoRA, and structured outputs  
 - 🔐 building privacy-aware systems that retrieve live knowledge instead of embedding sensitive or changing information in model weights  
 - 🌐 keeping a strong product/UI foundation with `Next.js`, `Vue`, `TypeScript`, and `Tailwind`
@@ -23,21 +23,26 @@ i build thoughtful interfaces, AI systems, and production-minded tools.
 
 ## 🧱 selected work
 
-- **[HOSIA](https://github.com/badblli/HOSIA)** → multilingual hospitality ontology, dataset, benchmark, and model-adaptation research  
-- **hybrid travel search** → vector search, RAG, and grounded AI responses  
-- **AI chat platform** → multi-tenant assistants with API providers and product-focused UX  
-- **SCHKIMI** → previous full-stack e-commerce work for 3D-printed physical goods  
-- **modular CMS & canvas systems** → multilingual content workflows and real-time interaction tools
+- **[Docgrain](https://github.com/badblli/docgrain)** → pre-alpha document-ingestion service for reviewable, retrieval-ready knowledge with source provenance
+- **[LedgerPing](https://github.com/badblli/ledgerping)** → billing signals dashboard that tracks Gmail events and routes critical alerts to Slack
+- **[HOSIA](https://github.com/badblli/HOSIA)** → early-stage research into multilingual hospitality concepts and intent analysis; ontology and validation work are underway
+- **[Hybrid Travel Search Demo](https://github.com/badblli/hybrid-travel-search-demo)** → event/workshop project with my small adaptations to the original demo
 
 ---
 
 ## 🛠 stack
 
-**AI / ML focus:**  
-`python`, `hugging face`, `transformers`, `datasets`, `pytorch`, `peft`, `sentence-transformers`, `scikit-learn`, `rag`, `openai`
+**AI / retrieval:**
 
-**product & platform:**  
-`typescript`, `next.js`, `vue`, `nuxt`, `tailwind`, `mongodb atlas`, `prisma`, `docker`, `vite`, `vercel`, `websockets`
+`python`, `FastAPI`, `RAG`, `Gemini`, `OpenAI`
+
+**Backend & automation:**
+
+`TypeScript`, `Next.js`, `PostgreSQL`, `Drizzle ORM`, `Gmail API`, `Slack webhooks`, `scheduled jobs`
+
+**Search & product:**
+
+`React`, `MongoDB Atlas`, `Atlas Search`, `vector search`, `Docker`
 
 ---
 
